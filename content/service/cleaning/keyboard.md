@@ -1,0 +1,3 @@
+# Klávesnice
+
+Při čištění klávesnice notebooku je důležité si uvědomit, že pohyb nahoru nebo dolů může klávesy uvolnit z jejich uložení a v nejhorším případě uložení mechanicky poškodit. Snažíme se tedy všechny pohyby uskutečňovat **zleva doprava** a opačně. Přitom se hadr nesmí zaseknout o hranu nebo roh klávesy, aby nedošlo k mechanickému poškození. Ideální je hard složit tak, aby neměl na kontaktní ploše **žádné záhyby**.

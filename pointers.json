@@ -1,0 +1,234 @@
+{
+    "\/buy\/notebook": {
+        "path": "content\/buy\/notebook.md",
+        "isIndex": false,
+        "href": "\/buy\/notebook",
+        "dir": "\/buy",
+        "home": "\/buy",
+        "title": "Notebook\r\n"
+    },
+    "\/buy": {
+        "path": "content\/buy\/index.md",
+        "isIndex": true,
+        "href": "\/buy",
+        "dir": "\/buy",
+        "home": "\/",
+        "title": "Nakupov\u00e1n\u00ed a vyb\u00edr\u00e1n\u00ed\r\n"
+    },
+    "\/service\/cleaning\/display": {
+        "path": "content\/service\/cleaning\/display.md",
+        "isIndex": false,
+        "href": "\/service\/cleaning\/display",
+        "dir": "\/service\/cleaning",
+        "home": "\/service\/cleaning",
+        "title": "Monitory \/ displeje\r\n"
+    },
+    "\/service\/cleaning\/notebook": {
+        "path": "content\/service\/cleaning\/notebook.md",
+        "isIndex": false,
+        "href": "\/service\/cleaning\/notebook",
+        "dir": "\/service\/cleaning",
+        "home": "\/service\/cleaning",
+        "title": "Notebook\r\n"
+    },
+    "\/service\/cleaning": {
+        "path": "content\/service\/cleaning\/index.md",
+        "isIndex": true,
+        "href": "\/service\/cleaning",
+        "dir": "\/service\/cleaning",
+        "home": "\/service",
+        "title": "Myt\u00ed\r\n"
+    },
+    "\/service\/cleaning\/keyboard": {
+        "path": "content\/service\/cleaning\/keyboard.md",
+        "isIndex": false,
+        "href": "\/service\/cleaning\/keyboard",
+        "dir": "\/service\/cleaning",
+        "home": "\/service\/cleaning",
+        "title": "Kl\u00e1vesnice\r\n"
+    },
+    "\/service\/hw\/disk": {
+        "path": "content\/service\/hw\/disk.md",
+        "isIndex": false,
+        "href": "\/service\/hw\/disk",
+        "dir": "\/service\/hw",
+        "home": "\/service\/hw",
+        "title": "\u00dalo\u017ei\u0161t\u011b (HDD\/SSD\/M2\/M2 NVMe)\r\n"
+    },
+    "\/service\/hw\/cpu": {
+        "path": "content\/service\/hw\/cpu.md",
+        "isIndex": false,
+        "href": "\/service\/hw\/cpu",
+        "dir": "\/service\/hw",
+        "home": "\/service\/hw",
+        "title": "Procesor (CPU)\r\n"
+    },
+    "\/service\/hw\/ram": {
+        "path": "content\/service\/hw\/ram.md",
+        "isIndex": false,
+        "href": "\/service\/hw\/ram",
+        "dir": "\/service\/hw",
+        "home": "\/service\/hw",
+        "title": "Opera\u010dn\u00ed pam\u011b\u0165 (RAM)\r\n"
+    },
+    "\/service\/hw": {
+        "path": "content\/service\/hw\/index.md",
+        "isIndex": true,
+        "href": "\/service\/hw",
+        "dir": "\/service\/hw",
+        "home": "\/service",
+        "title": "Hardware\r\n"
+    },
+    "\/service\/bios": {
+        "path": "content\/service\/bios.md",
+        "isIndex": false,
+        "href": "\/service\/bios",
+        "dir": "\/service",
+        "home": "\/service",
+        "title": "BIOS a bootmenu\r\n"
+    },
+    "\/service": {
+        "path": "content\/service\/index.md",
+        "isIndex": true,
+        "href": "\/service",
+        "dir": "\/service",
+        "home": "\/",
+        "title": "Servis\r\n"
+    },
+    "\/service\/cloning\/clonezilla": {
+        "path": "content\/service\/cloning\/clonezilla.md",
+        "isIndex": false,
+        "href": "\/service\/cloning\/clonezilla",
+        "dir": "\/service\/cloning",
+        "home": "\/service\/cloning",
+        "title": "Clonezilla\r\n"
+    },
+    "\/service\/cloning\/macrium": {
+        "path": "content\/service\/cloning\/macrium.md",
+        "isIndex": false,
+        "href": "\/service\/cloning\/macrium",
+        "dir": "\/service\/cloning",
+        "home": "\/service\/cloning",
+        "title": "Macrium Reflect\r\n"
+    },
+    "\/service\/cloning": {
+        "path": "content\/service\/cloning\/index.md",
+        "isIndex": true,
+        "href": "\/service\/cloning",
+        "dir": "\/service\/cloning",
+        "home": "\/service",
+        "title": "Klonov\u00e1n\u00ed\r\n"
+    },
+    "\/service\/diskswap": {
+        "path": "content\/service\/diskswap.md",
+        "isIndex": false,
+        "href": "\/service\/diskswap",
+        "dir": "\/service",
+        "home": "\/service",
+        "title": "V\u00fdm\u011bna disku\r\n"
+    },
+    "\/service\/win\/moveuserdata": {
+        "path": "content\/service\/win\/moveuserdata.md",
+        "isIndex": false,
+        "href": "\/service\/win\/moveuserdata",
+        "dir": "\/service\/win",
+        "home": "\/service\/win",
+        "title": "P\u0159esun dat u\u017eivatele\r\n"
+    },
+    "\/service\/win\/securitybypass": {
+        "path": "content\/service\/win\/securitybypass.md",
+        "isIndex": false,
+        "href": "\/service\/win\/securitybypass",
+        "dir": "\/service\/win",
+        "home": "\/service\/win",
+        "title": "Bezpe\u010dnostn\u00ed bypass\r\n"
+    },
+    "\/service\/win\/cmd": {
+        "path": "content\/service\/win\/cmd.md",
+        "isIndex": false,
+        "href": "\/service\/win\/cmd",
+        "dir": "\/service\/win",
+        "home": "\/service\/win",
+        "title": "P\u0159\u00edkazy\r\n"
+    },
+    "\/service\/win\/install": {
+        "path": "content\/service\/win\/install.md",
+        "isIndex": false,
+        "href": "\/service\/win\/install",
+        "dir": "\/service\/win",
+        "home": "\/service\/win",
+        "title": "\u010cist\u00e1 instalace\r\n"
+    },
+    "\/service\/win\/mods": {
+        "path": "content\/service\/win\/mods.md",
+        "isIndex": false,
+        "href": "\/service\/win\/mods",
+        "dir": "\/service\/win",
+        "home": "\/service\/win",
+        "title": "Optimalizace\r\n"
+    },
+    "\/service\/win": {
+        "path": "content\/service\/win\/index.md",
+        "isIndex": true,
+        "href": "\/service\/win",
+        "dir": "\/service\/win",
+        "home": "\/service",
+        "title": "Windows\r\n"
+    },
+    "\/service\/win\/drivers": {
+        "path": "content\/service\/win\/drivers.md",
+        "isIndex": false,
+        "href": "\/service\/win\/drivers",
+        "dir": "\/service\/win",
+        "home": "\/service\/win",
+        "title": "Ovlada\u010de\r\n"
+    },
+    "\/extra\/doma\/misa": {
+        "path": "content\/extra\/doma\/misa.md",
+        "isIndex": false,
+        "href": "\/extra\/doma\/misa",
+        "dir": "\/extra\/doma",
+        "home": "\/extra\/doma",
+        "title": "M\u00ed\u0161a :)\r\n"
+    },
+    "\/extra\/doma": {
+        "path": "content\/extra\/doma\/index.md",
+        "isIndex": true,
+        "href": "\/extra\/doma",
+        "dir": "\/extra\/doma",
+        "home": "\/extra",
+        "title": "Pravidla domova :)\r\n"
+    },
+    "\/": {
+        "path": "content\/index.md",
+        "isIndex": true,
+        "href": "\/",
+        "dir": "\/",
+        "home": "\/",
+        "title": "Hlavn\u00ed rozcestn\u00edk\r\n"
+    },
+    "\/self\/reading": {
+        "path": "content\/self\/reading.md",
+        "isIndex": false,
+        "href": "\/self\/reading",
+        "dir": "\/self",
+        "home": "\/self",
+        "title": "\u010cten\u00ed wiki\r\n"
+    },
+    "\/self": {
+        "path": "content\/self\/index.md",
+        "isIndex": true,
+        "href": "\/self",
+        "dir": "\/self",
+        "home": "\/",
+        "title": "\u00davod do Wiki\r\n"
+    },
+    "\/error\/404": {
+        "path": "content\/error\/404.md",
+        "isIndex": false,
+        "href": "\/error\/404",
+        "dir": "\/error",
+        "home": "\/error",
+        "title": "Str\u00e1nka nenalezena :(\r\n"
+    }
+}

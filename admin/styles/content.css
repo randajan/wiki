@@ -1,0 +1,12 @@
+
+.content {
+    overflow:auto;
+    flex-shrink:1;
+    flex-grow:1;
+}
+
+.content img {
+    border:2px dashed gray;
+    border-radius:5px;
+    margin-bottom:1em;
+}

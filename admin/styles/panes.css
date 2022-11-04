@@ -1,0 +1,22 @@
+
+header, footer {
+    display:flex;
+    
+    align-items:center;
+}
+
+header {
+    height:8vh;
+    max-height:5em;
+    min-height:2em;
+    border-bottom:1px solid lightgray;
+    font-size:2em;
+}
+
+footer {
+    height:4vh;
+    max-height:4em;
+    min-height:1.5em;
+    justify-content: space-around;
+    border-top:1px solid lightgray;
+}
