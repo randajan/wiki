@@ -1,6 +1,6 @@
 {
   "name": "@randajan/wiki",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "iTcan wiki pages based od MarkDown",
   "repository": "randajan/wiki",
   "type": "module",
