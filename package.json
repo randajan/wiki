@@ -19,6 +19,7 @@
     "esbuild-plugin-import-glob": "^0.1.1",
     "esbuild-plugin-svgr": "^1.0.1",
     "esbuild-sass-plugin": "^2.4.0",
+    "firebase": "^9.14.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.3",

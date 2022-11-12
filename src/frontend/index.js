@@ -7,6 +7,8 @@ import "./index.scss";
 
 import App from './App/App.jsx';
 
+import "./firebase.js";
+
 
 createRoot(document.getElementById("root")).render(<App />);
 
